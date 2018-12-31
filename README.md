@@ -3,5 +3,5 @@ All the algorithms coded are used for classification of IMDb movie reviews into 
 
 ### Algortihms implemented
 * Feedforward Attention GRU Network
-* Concolutional Attention Network
+* Convolutional Attention Network
 * Hierarchical Attention Network
